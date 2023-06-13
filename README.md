@@ -28,7 +28,7 @@ FAQ
 - Will there be any social functionality, friends, voice chat etc? | It could easily be done but I dont think it fits with the model I would like, perhaps another application in the future might include this ;)
 - I cant seem to figure out how to add applications, how do I do this? | Find the .exe within the games folder (can be tricky at times), drag and drop the exe into the application
 - I cant run my game, it throws an error when i launch, what can I do? | Run the m_Launcher executable as administrator and explore the properties of the game via right click if it persists
-- I cant understand why you cant just add a game importer, cant you do this? | I can, its being worked on but it is hard with my schedule, a few prototypes got scrapped but the current one is looking good
+- Why is the game importer so run of the mill? | Its being worked on but it is hard with my schedule, a few prototypes got scrapped but the current one is looking good for UI implementation
 - Can I inject my hack.dll and not get caught | Yes, provided the game of choice hasnt got a solid hold on detecting LoadLibrary methods, since its open source you can customize the method
 - Can I sell this? | Yes, I mean you do you chief but I dont know who would buy it.
 - What are the thread priorities? | Thread priority is next to useless on modern machines however on older computers they help out a lot, see here: https://shorturl.at/nvyDW
