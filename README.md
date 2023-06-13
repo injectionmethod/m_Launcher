@@ -47,3 +47,14 @@ Game Backup: Use the backup feature within m_Launcher to create and manage backu
 
 Contributing
 If you have any suggestions, bug reports, or feature requests, please open an issue in the GitHub repository. Additionally, if you'd like to contribute code changes, feel free to submit a pull request.
+
+
+Things to be added:
+- Decompiler
+- Full Asset Dumping
+- In Depth Memory Editing
+- Tutorial For Memory Features
+- Dark Mode
+- Custom UI Options
+- More Multi-Threading
+- (Depends on feedback) API for in game cheats and another API for DLL style hacks.
