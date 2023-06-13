@@ -8,6 +8,20 @@ m_Launcher is a lightweight UI game launcher that simplifies the process of laun
 ![image](https://github.com/injectionmethod/m_Launcher/assets/80434330/f8a481de-338e-4f27-8b8c-04c742b7cb6a)
 
 
+FAQ
+- Will i get banned from multiplayer games if i launch through this? | No, however the tools in the properties section could lead to a ban if not careful
+- Can i launch Steam, Origin/EA, Epic, COG etc.. games with this? | Yes, you can launch any application from the exe and have it run through its regular client without setting anything
+- Does this application connect to any online services? | Somewhat, The only connection this program will ever make provided it is from this repository is to the update server, it is turned off by default
+- Why are certain parts unfinished? | This is a one man job, I don't have a lot of time to work on the UI with my schedule, hence it remains indev till I can sort it out
+- Will there be any social functionality, friends, voice chat etc | It could easily be done but I dont think it fits with the model I would like, perhaps another application in the future might include this ;)
+- I cant seem to figure out how to add applications | Find the .exe within the games folder (can be tricky at times), drag and drop the exe into the application
+- I cant run my game, it throws an error when i launch, what can I do? | Run the m_Launcher executable as administrator and explore the properties of the game via right click if it persists
+- I cant understand why you cant just add a game importer, cant you do this? | I can, its being worked on but it is hard with my schedule, a few prototypes got scrapped but the current one is looking good
+- Can I inject my hack.dll and not get caught | Yes, provided the game of choice hasnt got a solid hold on detecting LoadLibrary methods, since its open source you can customize the method
+- Can I sell this? | Yes, I mean you do you chief but I dont know who would buy it.
+- What are the thread priorities? | Thread priority is next to useless on modern machines however on older computers they help out a lot, see here: https://shorturl.at/nvyDW
+
+
 Features
 - Memory Injection: m_Launcher enables external debugging and game modding through memory injection techniques. This feature allows users to modify game behavior and explore the internals of running applications.
 
