@@ -10,7 +10,7 @@ m_Launcher is a lightweight UI game launcher that simplifies the process of laun
 
 FAQ
 - Will i get banned from multiplayer games if i launch through this? | No, however the tools in the properties section could lead to a ban if not careful
-- Can i launch Steam, Origin/EA, Epic, COG etc.. games with this? | Yes, you can launch any application from the exe and have it run through its regular client without setting anything
+- Can i launch Steam, Origin/EA, Epic, COG etc.. games with this? | Yes, you can launch any application and have it run through its regular client without setting anything
 - Does this application connect to any online services? | Somewhat, The only connection this program will ever make provided it is from this repository is to the update server, it is turned off by default
 - Why are certain parts of the UI unfinished? | This is a one man job, I don't have a lot of time to work on the UI with my schedule, hence it remains indev and my main focus till I can sort it out
 - Will there be any social functionality, friends, voice chat etc? | It could easily be done but I dont think it fits with the model I would like, perhaps another application in the future might include this ;)
