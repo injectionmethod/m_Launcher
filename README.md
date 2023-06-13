@@ -1,5 +1,4 @@
-m_Launcher: 
-             ![image](https://github.com/injectionmethod/m_Launcher/assets/80434330/bc21c0b8-4e7c-4a45-9e32-7f24ea333f7b)
+ ![image](https://github.com/injectionmethod/m_Launcher/assets/80434330/bc21c0b8-4e7c-4a45-9e32-7f24ea333f7b)
 
 
 (Unreleased, Still In Development)
