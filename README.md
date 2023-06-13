@@ -8,6 +8,18 @@ m_Launcher is a lightweight UI game launcher that simplifies the process of laun
 ![image](https://github.com/injectionmethod/m_Launcher/assets/80434330/a9b2285b-1d02-4c73-9736-36e4a8c36dc5)
 
 
+Features
+- Memory Injection: m_Launcher enables external debugging and game modding through memory injection techniques. This feature allows users to modify game behavior and explore the internals of running applications.
+
+- Self-Installation: The entire m_Launcher application can be installed using just the executable file. No additional installation steps or dependencies are required, making it hassle-free for users to set up.
+
+- Game Backup: Backing up your games is made simple with m_Launcher. You can easily create and manage backups of your games, ensuring that your progress and settings are safely stored.
+
+- Memory Reading: Similar to Cheat Engine, m_Launcher provides memory reading capabilities for applications launched through it. This allows users to analyze and manipulate in-memory data of running games and applications.
+
+- Open Source: m_Launcher is an open-source project, which means the source code is publicly available. This encourages community contributions and allows users to customize and improve the launcher according to their needs.
+
+
 FAQ
 - Will i get banned from multiplayer games if i launch through this? | No, however the tools in the properties section could lead to a ban if not careful
 - Can i launch Steam, Origin/EA, Epic, COG etc.. games with this? | Yes, you can launch any application and have it run through its regular client without setting anything
@@ -22,16 +34,7 @@ FAQ
 - What are the thread priorities? | Thread priority is next to useless on modern machines however on older computers they help out a lot, see here: https://shorturl.at/nvyDW
 
 
-Features
-- Memory Injection: m_Launcher enables external debugging and game modding through memory injection techniques. This feature allows users to modify game behavior and explore the internals of running applications.
 
-- Self-Installation: The entire m_Launcher application can be installed using just the executable file. No additional installation steps or dependencies are required, making it hassle-free for users to set up.
-
-- Game Backup: Backing up your games is made simple with m_Launcher. You can easily create and manage backups of your games, ensuring that your progress and settings are safely stored.
-
-- Memory Reading: Similar to Cheat Engine, m_Launcher provides memory reading capabilities for applications launched through it. This allows users to analyze and manipulate in-memory data of running games and applications.
-
-- Open Source: m_Launcher is an open-source project, which means the source code is publicly available. This encourages community contributions and allows users to customize and improve the launcher according to their needs.
 
 Usage
 Installation: Simply run the m_Launcher executable to install the launcher. No additional steps are required.
