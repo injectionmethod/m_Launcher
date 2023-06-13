@@ -13,7 +13,7 @@ Features
 
 - Self-Installation: The entire m_Launcher application can be installed using just the executable file. No additional installation steps or dependencies are required, making it hassle-free for users to set up.
 
-- Game Backup: Backing up your games is made simple with m_Launcher. You can easily create and manage backups of your games, ensuring that your progress and settings are safely stored.
+- Game Backup: Backing up your games is made simple with m_Launcher. You can easily create backups of your games
 
 - Memory Reading: Similar to Cheat Engine, m_Launcher provides memory reading capabilities for applications launched through it. This allows users to analyze and manipulate in-memory data of running games and applications.
 
