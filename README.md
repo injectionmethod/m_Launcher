@@ -46,4 +46,4 @@ Memory Injection: To utilize memory injection for external debugging or game mod
 Game Backup: Use the backup feature within m_Launcher to create and manage backups of your games. Follow the instructions in the user interface to perform game backups.
 
 Contributing
-We welcome contributions from the community to improve m_Launcher. If you have any suggestions, bug reports, or feature requests, please open an issue in the GitHub repository. Additionally, if you'd like to contribute code changes, feel free to submit a pull request.
+If you have any suggestions, bug reports, or feature requests, please open an issue in the GitHub repository. Additionally, if you'd like to contribute code changes, feel free to submit a pull request.
