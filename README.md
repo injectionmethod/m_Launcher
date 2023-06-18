@@ -50,8 +50,9 @@ If you have any suggestions, bug reports, or feature requests, please open an is
 
 
 Things to be added:
-- Decompiler
-- Full Asset Dumping
+- Better/Cleaner UI
+- Decompilation/Reverse Engineering Tools
+- Better Asset Ripping
 - In Depth Memory Editing
 - Tutorial For Memory Features
 - Dark Mode
