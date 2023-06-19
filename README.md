@@ -24,13 +24,13 @@ Features
 
 FAQ
 - I am encountering errors in the early development build (v1.0.0.0 - v2.0.0.0) why is this happening? | The early development build only serves as a proof of concept, many features are scuffed or unfinished
-- Will i get banned from multiplayer games if i launch through this? | No, however the tools in the properties section could lead to a ban if not careful
-- Can i launch Steam, Origin/EA, Epic, COG etc.. games with this? | Yes, you can launch any application and have it run through its regular client without setting anything
+- Will I get banned from multiplayer games if I launch through this? | No, however the tools in the properties section could lead to a ban if not careful
+- Can I launch Steam, Origin/EA, Epic, COG etc.. games with this? | Yes, you can launch any application and have it run through its regular client without setting anything
 - Does this application connect to any online services? | Somewhat, The only connection this program will ever make provided it is from this repository is to the update server, it is turned off by default
 - Why are certain parts of the UI unfinished? | This is a one man job, I don't have a lot of time to work on the UI with my schedule, hence it remains indev and my main focus till I can sort it out
 - Will there be any social functionality, friends, voice chat etc? | It could easily be done but I dont think it fits with the model I would like, perhaps another application in the future might include this ;)
 - I cant seem to figure out how to add applications, how do I do this? | Locate the .exe within the games folder (this can be tricky at times) then drag and drop the exe into the launcher
-- I cant run my game, it throws an error when i launch, what can I do? | Run the m_Launcher executable as administrator and explore the properties of the game via right click if it persists
+- I cant run my game, it throws an error when I launch, what can I do? | Run the m_Launcher executable as administrator and explore the properties of the game via right click if it persists
 - Why is the game importer so run of the mill? | Its being worked on but it is hard with my schedule, a few prototypes got scrapped but the current one is looking good so far
 - Can I inject my hack.dll and not get caught | Yes, provided the game of choice hasnt got a solid hold on detecting LoadLibrary methods, since its open source you can customize the functions if you so wish
 - Can I sell this? | Yes, I mean you do you chief but I dont know who would want to buy it in its current state.
