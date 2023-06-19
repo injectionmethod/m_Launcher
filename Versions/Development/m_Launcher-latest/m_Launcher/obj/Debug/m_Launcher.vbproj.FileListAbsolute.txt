@@ -1,0 +1,17 @@
+C:\Users\Fraser\source\repos\m_Launcher\m_Launcher\bin\Debug\m_Launcher.exe.config
+C:\Users\Fraser\source\repos\m_Launcher\m_Launcher\bin\Debug\m_Launcher.exe
+C:\Users\Fraser\source\repos\m_Launcher\m_Launcher\bin\Debug\m_Launcher.pdb
+C:\Users\Fraser\source\repos\m_Launcher\m_Launcher\bin\Debug\m_Launcher.xml
+C:\Users\Fraser\source\repos\m_Launcher\m_Launcher\obj\Debug\m_Launcher.vbproj.AssemblyReference.cache
+C:\Users\Fraser\source\repos\m_Launcher\m_Launcher\obj\Debug\m_Launcher.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Fraser\source\repos\m_Launcher\m_Launcher\obj\Debug\m_Launcher.Form1.resources
+C:\Users\Fraser\source\repos\m_Launcher\m_Launcher\obj\Debug\m_Launcher.Resources.resources
+C:\Users\Fraser\source\repos\m_Launcher\m_Launcher\obj\Debug\m_Launcher.vbproj.GenerateResource.cache
+C:\Users\Fraser\source\repos\m_Launcher\m_Launcher\obj\Debug\m_Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\Fraser\source\repos\m_Launcher\m_Launcher\obj\Debug\m_Launcher.exe
+C:\Users\Fraser\source\repos\m_Launcher\m_Launcher\obj\Debug\m_Launcher.xml
+C:\Users\Fraser\source\repos\m_Launcher\m_Launcher\obj\Debug\m_Launcher.pdb
+C:\Users\Fraser\source\repos\m_Launcher\m_Launcher\obj\Debug\m_Launcher.Form2.resources
+C:\Users\Fraser\source\repos\m_Launcher\m_Launcher\obj\Debug\m_Launcher.Form3.resources
+C:\Users\Fraser\source\repos\m_Launcher\m_Launcher\obj\Debug\m_Launcher.Form4.resources
+C:\Users\Fraser\source\repos\m_Launcher\m_Launcher\obj\Debug\m_Launcher.Form5.resources
