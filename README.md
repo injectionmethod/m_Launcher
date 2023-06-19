@@ -15,7 +15,7 @@ Features
 
 - Self-Installation: The entire m_Launcher application can be installed using just the executable file. No additional installation steps or dependencies are required, making it hassle-free for users to set up.
 
-- Game Backup: Backing up your games is made simple with m_Launcher. You can easily create backups of your games
+- Game Backup: Backing up your games is made simple with m_Launcher.
 
 - Memory Reading: Similar to Cheat Engine, m_Launcher provides memory reading capabilities for applications launched through it. This allows users to analyze and manipulate in-memory data of running games and applications.
 
@@ -23,6 +23,7 @@ Features
 
 
 FAQ
+- I am encountering errors in the early development build (v1.0.0.0 - v2.0.0.0) why is this happening? | The early development build only serves as a proof of concept, many features are scuffed or unfinished
 - Will i get banned from multiplayer games if i launch through this? | No, however the tools in the properties section could lead to a ban if not careful
 - Can i launch Steam, Origin/EA, Epic, COG etc.. games with this? | Yes, you can launch any application and have it run through its regular client without setting anything
 - Does this application connect to any online services? | Somewhat, The only connection this program will ever make provided it is from this repository is to the update server, it is turned off by default
