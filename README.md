@@ -53,7 +53,7 @@ If you have any suggestions, bug reports, or feature requests, please open an is
 
 
 Things to be added:
-- Better/Cleaner UI
+- Better/Cleaner UI (Possible Overhaul)
 - Decompilation/Reverse Engineering Tools
 - Better Asset Dumping/Ripping
 - In Depth Memory Editing
