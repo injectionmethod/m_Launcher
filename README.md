@@ -1,7 +1,7 @@
  ![image](https://github.com/injectionmethod/m_Launcher/assets/80434330/bc21c0b8-4e7c-4a45-9e32-7f24ea333f7b)
 
 
-(Still In Development, Early Development Build Released, Source Code Available)
+(Still In Development, Code Will Not Remain In Current State, Early Development Build Released, Source Code Available)
 
 m_Launcher is a lightweight UI game launcher that simplifies the process of launching and managing games on Windows. With its user-friendly interface, m_Launcher provides an easy and intuitive way to access your favorite games.
 
@@ -52,7 +52,8 @@ Contributing
 If you have any suggestions, bug reports, or feature requests, please open an issue in the GitHub repository. Additionally, if you'd like to contribute code changes, feel free to submit a pull request.
 
 
-Things to be added:
+Things to be done:
+- Code Cleanup
 - Better/Cleaner UI (Possible Overhaul)
 - Decompilation/Reverse Engineering Tools
 - Better Asset Dumping/Ripping
