@@ -3,7 +3,9 @@
 
 (Still In Development, Early Development Build Released, Source Code Available)
 
-m_Launcher is a lightweight UI game launcher that simplifies the process of launching and managing games on Windows. With its user-friendly interface, m_Launcher provides an easy and intuitive way to access your favorite games. It supports Windows 7 through Windows 10 (Windows 11 compatibility not guaranteed).
+m_Launcher is a lightweight UI game launcher that simplifies the process of launching and managing games on Windows. With its user-friendly interface, m_Launcher provides an easy and intuitive way to access your favorite games.
+
+Supports Windows 7 through Windows 10 (Windows 11 compatibility not guaranteed).
 
 ![image](https://github.com/injectionmethod/m_Launcher/assets/80434330/a9b2285b-1d02-4c73-9736-36e4a8c36dc5)
 
